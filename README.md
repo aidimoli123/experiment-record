@@ -17,6 +17,6 @@ This project is an experimental presentation about the paper named *Finite-time 
    MADE：maximum attitude deviation error；  
    AEA： average attitude control accuracy.
 
-*    _Notes.2_:
+*    _Notes.2_:  
   The first half of the video documents the operation of the experimental platform, and the second half shows the response curves of the experiments.
   
