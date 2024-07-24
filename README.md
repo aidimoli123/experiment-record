@@ -5,7 +5,8 @@ This project is an experimental presentation about the paper named *Finite-time 
 
 *  The folder *IMU_Datasheet* includes the datasheets for the two attitude sensors used in the experiments.
 
-*  There is a txt file in *Experiment_result* which mainly notes on some of the acronyms in the experimental video.  
+*  There is a txt file in *Experiment_result* which mainly notes on some of the acronyms in the experimental video.
+    
    Scheme 1:  Asymptotically controller with finite-time complementary filter (FTCF-ASC);   
    Scheme 2:  Finite-time controller based on adding a power integrator technique with finite-time complementary filter (FTCF-PFC);    
    Scheme 3:  Finite-time controller with finite-time complementary filter (FTCF-FTC);  
